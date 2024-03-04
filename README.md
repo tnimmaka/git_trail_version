@@ -1,1 +1,3 @@
-# git_trail_version
+this is first class
+
+going to learn git
